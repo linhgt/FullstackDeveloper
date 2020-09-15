@@ -1,3 +1,10 @@
+body{
+    background-image:url('../Assets/Images/Crumpled-Paper.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
 .navbar-center{
     text-align: center;
 }
