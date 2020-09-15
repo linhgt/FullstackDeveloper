@@ -16,3 +16,7 @@ body{
 #contact{
     color:#5bc0de
 }
+
+.navbar-light .navbar-brand{
+    color:white;
+}
