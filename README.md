@@ -12,7 +12,7 @@ The navigation bar has:
 
 * Links to Contact page, About Me page, Portfolio page. When opening this portfolio on a small screen device, there is a navbar toggler that contains 3 links.
 
-## About Me
+### About Me
 
 The page contains:
 
@@ -22,7 +22,7 @@ The page contains:
 
 * Some temporary placeholder text that will be changed in the future 
 
-## Contact
+### Contact
 
 The page contains:
 
@@ -30,11 +30,11 @@ The page contains:
 
 * Forms that prompt the users to submit their nanmes, emails and messages to me
 
-## Portfolio:
+### Portfolio:
 
 Currently the page has only placeholder pictures that will be changed in the future
 
-## Bootstrap:
+### Bootstrap:
 
 Utilize bootstrap grid system entirely to structure the components of all pages. 
 Use bootstrap navbar to build top navigation bar and bottom footer
