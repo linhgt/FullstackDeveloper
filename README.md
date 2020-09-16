@@ -37,5 +37,8 @@ Currently the page has only placeholder pictures that will be changed in the fut
 ### Bootstrap:
 
 Utilize bootstrap grid system entirely to structure the components of all pages. 
-Use bootstrap navbar to build top navigation bar and bottom footer
+
+### HTML, CSS:
+
+Create the copyright footer using HTML and CSS
 
