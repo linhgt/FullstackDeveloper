@@ -14,6 +14,12 @@ The navigation bar has:
 
 ![Contact page](./Assets/Images/contact-page.JPG?raw=true)
 
+# Usage
+
+To view the portfolio, copy this link to a browser and enter:
+
+https://linhgt.github.io/Linh-bootcamp-portfolio/
+
 ### About Me
 
 The page contains:
