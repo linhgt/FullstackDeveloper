@@ -12,6 +12,8 @@ The navigation bar has:
 
 * Links to Contact page, About Me page, Portfolio page. When opening this portfolio on a small screen device, there is a navbar toggler that contains 3 links.
 
+![alt text](./Assets/Images/contact-page.jpg?raw=true)
+
 ### About Me
 
 The page contains:
