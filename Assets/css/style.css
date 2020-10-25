@@ -56,7 +56,7 @@ body{
 .main-container{
     border-radius:5px;
     box-shadow:0 0 10px rgba(0, 0, 0, 0.23);
-    background: linear-gradient(180deg,yellow, red);
+    background: linear-gradient(to right, rgb(255, 65, 108), rgb(255, 75, 43));
 }
 
 .main-container p{
