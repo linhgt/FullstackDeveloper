@@ -30,6 +30,8 @@ body{
     height:170px;
     float:left;
     margin:10px;
+    border-radius:50%;
+    border:8px solid rgb(255, 230, 0);
 }
 
 .profile-pic2{
@@ -54,4 +56,9 @@ body{
 .main-container{
     border-radius:5px;
     box-shadow:0 0 10px rgba(0, 0, 0, 0.23);
+    background: linear-gradient(180deg,yellow, red);
+}
+
+.main-container p{
+    color:white;
 }
