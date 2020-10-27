@@ -23,7 +23,7 @@ body{
     height:170px;
     margin:0 10px 10px 0;
     border-radius:50%;
-    border:8px solid rgb(255, 230, 0);
+    border:8px solid rgb(213, 170, 127);
 
 }
 
@@ -56,4 +56,6 @@ body{
 
 .main-container p{
     color:white;
+    font-size:22px;
+    font-weight:bold;
 }
