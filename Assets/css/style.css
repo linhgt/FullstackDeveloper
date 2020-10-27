@@ -1,16 +1,9 @@
 body{
-    background-image:url('../Images/Crumpled-Paper.jpg');
-    background-size:cover;
-    background-repeat:no-repeat;
-    background-attachment:fixed;
+    background: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228));
 }
 
 .navbar-center{
     text-align: center;
-}
-
-.main-container{
-    background-color:white;
 }
 
 .main-header{
@@ -28,7 +21,6 @@ body{
 
 .profile-pic{
     height:170px;
-    float:left;
     margin:0 10px 10px 0;
     border-radius:50%;
     border:8px solid rgb(255, 230, 0);
@@ -55,9 +47,11 @@ body{
 }
 
 .main-container{
-    border-radius:5px;
-    box-shadow:0 0 10px rgba(0, 0, 0, 0.23);
-    background: linear-gradient(to right, rgb(255, 65, 108), rgb(255, 75, 43));
+    position:absolute;
+    text-align: center;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
 }
 
 .main-container p{
