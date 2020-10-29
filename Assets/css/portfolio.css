@@ -29,7 +29,8 @@
 }
 
 .card img{
-    border:5px solid lightgreen;
+    border:5px solid;
+    border-image: conic-gradient(red, yellow, lime, aqua, blue, magenta, red) 1;
 }
   
 .project-container {
