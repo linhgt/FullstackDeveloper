@@ -27,6 +27,8 @@ html{
     transition: 0.3s;
     width: 100%;
     height:70vh;
+    margin-top:10px;
+    margin-bottom:10px;
 }
 
 .card:hover {
